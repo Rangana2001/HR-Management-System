@@ -1,0 +1,5 @@
+Kasun,1001,Head of Department,Dep of Education
+Dasun,1002,Librarian,Dep of Education
+Pasan,1003,Dirrector of Addmissions,Dep of Exam
+Kavindu Rukshan,1004,Dirrector of Addmissions,Dep of Exam
+Kavindu,1006,Head of Department,Dep of Exam

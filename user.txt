@@ -1,0 +1,6 @@
+Name,Role,Username,Password
+
+Ravindu Rangana,HRM,user4,pass1
+Dilan Yasintha,HRA,user5,pass2
+Kavindu Dilhara,HRA,user6,pass6
+Yasiru Jayawardhana,HRM,user7,pass7
